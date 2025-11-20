@@ -7,7 +7,7 @@ I am frontend developer
 I've been learning to code for almost a year in online-school 'Hexlet.'
 
 * ✉️  You can contact me at [danilsidelnikov74@mail.ru](mailto:danilsidelnikov74@mail.ru)
-* 🧠  Currently I'm learning all subtleties of js and react
+* 🧠  Currently I'm learning qa automation on python
 * 🤝  I'm open to collaborating on projects that can boost my skills
 
 ### Skills
