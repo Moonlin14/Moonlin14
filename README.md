@@ -1,10 +1,8 @@
 Hi 👋 My name is Danil
 ======================
 
-I am frontend developer
+I am QA engineer
 -----------------------
-
-I've been learning to code for almost a year in online-school 'Hexlet.'
 
 * ✉️  You can contact me at [danilsidelnikov74@mail.ru](mailto:danilsidelnikov74@mail.ru)
 * 🧠  Currently I'm learning qa automation on python
